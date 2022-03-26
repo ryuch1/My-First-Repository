@@ -3,3 +3,4 @@
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
+** ** or __ __ for **Bold**
