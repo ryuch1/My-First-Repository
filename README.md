@@ -16,6 +16,6 @@ Text Body
 `** **` and `_ _`		for **Bold and _nested_ italic**  
 `*** ***` for ***All Bold and Italic***  
 `>`  
->For quoting  
+>For quoting
 
 `` ` ` `` for quoting code
