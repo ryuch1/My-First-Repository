@@ -15,4 +15,5 @@ Text Body
 `~~ ~~` for ~~Strikethrough~~  
 `** **` and `_ _`		for **Bold and _nested_ italic**  
 `*** ***` for ***All Bold and Italic***  
-`>` >For quoting  
+`>`  
+>For quoting  
