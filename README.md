@@ -5,10 +5,11 @@
         
 ### Text Sizing
 
+Use `#` for  
 # The largest heading
-  
+`##` for  
 ## The second largest heading
-
+and `######` for
 ###### The smallest heading
 
 Text Body
