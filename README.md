@@ -35,7 +35,7 @@ Make ordered lists by preceding one or more lines of text with numbers
 2. Is
 3. An
 4. Ordered
-5. List
+5. List  
 Create nested lists by indenting one or more list items below another item.
 1. This
   - Is
