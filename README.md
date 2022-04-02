@@ -12,7 +12,7 @@ Use `#` for
 and `######` for
 ###### The smallest heading
 
-Text Body
+Create text on a new line to type in the text body size
 
 ### Text Formating
 Use `** **` or `__ __` for **Bold** text  
