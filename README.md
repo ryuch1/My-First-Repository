@@ -19,3 +19,7 @@ Text Body
 >For quoting
 
 `` ` ` `` for quoting code
+`  ```  ` To format code or text into it's own distinct block
+```
+distinct block
+```
