@@ -25,22 +25,26 @@ Distinct block
 ```
 Create an inline link by wrapping link text in brackets `[ ]` and wrap the URL in parentheses `( )`  
 [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## Lists
+#### Unordered Lists
 Make unordered lists by preceding one or more lines of text with `-` or `*`  
 * This
 - Is
 * A
 - List  
+#### Ordered Lists
 Make ordered lists by preceding one or more lines of text with numbers
 1. This
 2. Is
 3. An
 4. Ordered
 5. List
+#### Nested Lists
 Create nested lists by indenting one or more list items below another item.  
-- This
-  - Is
-    - A
-      - Nested
-        - List  
+1. This
+   - Is
+     - A
+       - Nested
+         - List  
  Create a task list by prefacing list items with a hyphen and space followed by `[ ]`  
  Mark a task as complete by using `[x]`
