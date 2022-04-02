@@ -8,7 +8,7 @@
 | Blockquote      | `> Blockquote`                                             | > Blockqoute                                         |
 | Ordered List    | `1. First Item` <br> `2. Second Item` <br> `3. Third Item` | 1. First Item <br> 2. Second Item <br> 3. Third Item |
 | Unordered List  | `- First Item` <br> `- Second Item` <br> `- Third Item`    | - First Item <br> - Second Item <br> - Third Item    |
-| Code            | ``Code``                                                 | `Code`                                               |
+| Code            | `\`Code`\`                                                 | `Code`                                               |
 | Horizontal Rule | `---`                                                      | ---                                                  |
 | Link            | `[Title](https://www.example.com)`                         | [title](https://www.example.com)                     |
 | Link            | `[Alt Text](image.jpg)`                                    | [alt text](image.jpg)                                |
