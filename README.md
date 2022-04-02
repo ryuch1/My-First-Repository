@@ -54,3 +54,5 @@ Create nested lists by indenting one or more list items below another item.
  #### Task Lists
  Create a task list by prefacing list items with a hyphen and space followed by `[ ]`  
  Mark a task as complete by using `[x]`
+[x] Completed Task
+[ ] Uncompleted Task
