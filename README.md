@@ -21,7 +21,7 @@ Use `~~ ~~` for ~~Strikethrough~~ text
 Use `** **` and `_ _` for **Bold and _nested_ italic** text  
 Use `*** ***` for ***All Bold and Italic*** text  
 Use `>` for  
-> quoting
+> Quoting
 
 Use `` ` ` `` for quoting code  
 `git status`
