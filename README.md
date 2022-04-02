@@ -23,6 +23,5 @@ Text Body
 ```
 distinct block
 ```
-create an inline link by wrapping link text in brackets `[ ]`
-and wrap the URL in parentheses `( )`  
+create an inline link by wrapping link text in brackets `[ ]` and wrap the URL in parentheses `( )`  
 [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
