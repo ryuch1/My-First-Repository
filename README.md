@@ -30,7 +30,7 @@ Make unordered lists by preceding one or more lines of text with `-` or `*`
 - Is
 * A
 - List  
-\ Make ordered lists by preceding one or more lines of text with numbers
+Make ordered lists by preceding one or more lines of text with numbers
 1. This
 2. Is
 3. An
