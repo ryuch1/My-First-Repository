@@ -39,7 +39,7 @@ Make ordered lists by preceding one or more lines of text with numbers
 Create nested lists by indenting one or more list items below another item.
 
 1. This
-  - Is
+   - Is
     - A
       - Nested
         - List
