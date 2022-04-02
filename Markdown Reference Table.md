@@ -10,8 +10,8 @@
 | Unordered List  | `- First Item` <br> `- Second Item` <br> `- Third Item`    | - First Item <br> - Second Item <br> - Third Item    |
 | Code            | `` `Code` ``                                                 | `Code`                                               |
 | Horizontal Rule | `---`                                                      | ---                                                  |
-| Link            | `[Title](https://www.example.com)`                         | [title](https://www.example.com)                     |
-| Link            | `[Alt Text](image.jpg)`                                    | [alt text](image.jpg)                                |
+| Link            | `[Title](https://www.example.com)`                         | [Title](https://www.example.com)                     |
+| Link            | `[Alt Text](image.jpg)`                                    | [Alt Text](image.jpg)                                |
 
 Add a new line for GIT demo --
 Add another line for GIT demo in VS Code!
