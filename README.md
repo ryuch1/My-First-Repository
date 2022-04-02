@@ -24,3 +24,4 @@ Text Body
 distinct block
 ```
 create an inline link by wrapping link text in brackets [ ]
+and wrap the URL in parentheses ( )
